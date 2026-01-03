@@ -66,5 +66,7 @@ uv run solution.py
 * SSH
     * [AsyncSSH: Asynchronous SSH for Python](https://asyncssh.readthedocs.io/en/latest/)
     * [Paramiko](https://www.paramiko.org/)
+* GUI automation
+    * [pyautogui.readthedocs.io](https://pyautogui.readthedocs.io/en/latest/index.html)
 * leetcode
     * [leetcode-75](https://leetcode.com/studyplan/leetcode-75/)
