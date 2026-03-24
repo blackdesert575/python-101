@@ -6,3 +6,5 @@
 * csv parser
 * logs parser
 * CIDR calculater with PostgreSQL
+* simplae FastAPI with Docker
+  * [deployment/docker/#dockerfile](https://fastapi.tiangolo.com/deployment/docker/#dockerfile)
